@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tce-assessment2/static/css/main.3bfc42a5.css",
-    "main.js": "/tce-assessment2/static/js/main.3637f90f.js",
+    "main.js": "/tce-assessment2/static/js/main.86f7d437.js",
     "static/js/453.0e4e3126.chunk.js": "/tce-assessment2/static/js/453.0e4e3126.chunk.js",
     "index.html": "/tce-assessment2/index.html",
     "main.3bfc42a5.css.map": "/tce-assessment2/static/css/main.3bfc42a5.css.map",
-    "main.3637f90f.js.map": "/tce-assessment2/static/js/main.3637f90f.js.map",
+    "main.86f7d437.js.map": "/tce-assessment2/static/js/main.86f7d437.js.map",
     "453.0e4e3126.chunk.js.map": "/tce-assessment2/static/js/453.0e4e3126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bfc42a5.css",
-    "static/js/main.3637f90f.js"
+    "static/js/main.86f7d437.js"
   ]
 }
